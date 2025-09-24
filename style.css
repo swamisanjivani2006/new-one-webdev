@@ -16,6 +16,9 @@ body{
     color: black;
     box-shadow: 0 0 6px 6px rgba(0, 0, 0, 0.134);
     padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .header .links{
     gap: 1em;
